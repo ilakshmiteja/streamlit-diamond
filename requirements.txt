@@ -59,7 +59,7 @@ pycares==4.4.0
 pycurl==7.45.3
 pydantic==2.7.0
 PyInstaller==6.6.0
-pyodide==0.0.2
+#pyodide==0.0.2
 pyOpenSSL==24.1.0
 pyperf==2.6.3
 PyQt4==4.11.4
