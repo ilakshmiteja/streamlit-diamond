@@ -56,6 +56,7 @@ pkgconfig==1.5.5
 plotly==5.21.0
 psutil==5.9.0
 py==1.11.0
+pycairo==1.26.0
 pycares==4.4.0
 pycurl==7.45.3
 pydantic==2.7.0
