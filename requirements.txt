@@ -62,7 +62,7 @@ PyInstaller==6.6.0
 #pyodide==0.0.2
 pyOpenSSL==24.1.0
 pyperf==2.6.3
-PyQt4==4.11.4
+#PyQt4==4.11.4
 PyQt5==5.15.10
 PyQt6==6.6.1
 PySide6==6.7.0
